@@ -1,0 +1,52 @@
+.fond-home{
+    background-image:  url('/src/assets/164245-vuelo-aeronave-aeropuerto-despegue-terminal_de_aeropuerto-3840x2160.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+   /*   overflow: auto; */
+}
+
+@keyframes plane-animation {
+    0% { transform: translate(0, 0); }
+    20% { transform: translateX(10px); }
+    40% { transform: translateX(-10px); }
+    60% { transform: translateY(-10px); }
+    80% { transform: translateY(10px); }
+    100% { transform: translate(0, 0); }
+}
+
+.fa-plane{
+    color: white;
+    font-size: 2rem;
+    animation: plane-animation 10s infinite linear;
+}
+
+.navbar-dark .navbar-nav .nav-link.active {
+    color: white;
+  }
+  
+.userSession {    
+    width: 2rem; 
+    height: 2rem;  
+    display: flex;   
+    text-align: center; 
+    align-items: center; 
+    justify-content: center; 
+    border-radius: 50%; 
+    padding: 0;
+    background-color: #b50f39; 
+    color: white; 
+    cursor: pointer;
+    overflow: hidden; 
+    appearance: none;    
+}
+
+.dropdown-menu {
+    position: absolute;
+    top: calc(100% - 20%); 
+    right:2%; 
+    z-index: 1000; 
+    text-align: center;
+    background-color: black;
+    color: white;
+}

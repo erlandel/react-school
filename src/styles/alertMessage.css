@@ -1,0 +1,33 @@
+.swal-button {
+    padding: 10px 24px; /* Espaciado interno */
+    border-radius: 4px; /* Borde redondeado */
+    cursor: pointer; /* Cambia el cursor al pasar sobre él */
+}
+
+
+.swal-button--confirm {
+    background-color: #1f8d28; /* Color de fondo */
+    color: white; /* Color del texto */
+}
+
+.swal-button--confirm.swal-button--danger:hover {
+    background-color: #0dc03d !important; 
+
+}
+
+
+.swal-button--cancel {
+    background-color: #bd0808; 
+    color: white; 
+}
+
+
+
+.swal-button--cancel:hover {
+    background-color: #e21717 !important; 
+}
+
+.swal-footer {
+    display: flex; 
+    justify-content: space-between; 
+}

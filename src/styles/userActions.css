@@ -1,0 +1,32 @@
+  .bg-custom {
+   background-image:  url('../assets/desktop-wallpaper-plain-purple-background.jpg');
+   background-size: cover;
+   background-repeat: no-repeat;
+   overflow-x: hidden;
+  }
+  
+
+  .fond:hover{
+    border-color: rgb(64, 224, 208);
+  }
+
+
+  .fond-reservation{
+    background-image: url('../assets/e89e8b1274e95e3061c802961106495d.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+  }
+
+  .ticket{
+    background-color: rgb(52, 52, 189);
+    width: 35%;
+    border-radius: 0.8rem;
+  }
+
+.bi-airplane-fill{
+  color: white;
+  font-size: 2rem;
+  margin-right: 0.5rem;
+  transform: rotate(90deg);
+}

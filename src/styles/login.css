@@ -1,0 +1,26 @@
+.car-login{
+  width: 35%;
+}
+.text-primary:hover {
+  color: #0056b3 !important; 
+}
+
+link.text-primary {
+  transition: color 0.5s ease;
+}
+
+.bi-x-circle-fill{
+  font-size: 3.5rem;
+}
+
+@media (max-width: 100px) {
+  .card-login {
+    width:100%;
+  }
+}
+
+.custom-max-width {
+  max-width: 400px; /* Ajusta este valor según el ancho deseado */
+  margin: 0 auto; /* Centra el componente horizontalmente */
+ }
+ 
