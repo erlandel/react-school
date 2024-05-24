@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-school/static/css/main.a46df9d5.css",
+    "main.js": "/react-school/static/js/main.3c5174c0.js",
+    "static/media/164245-vuelo-aeronave-aeropuerto-despegue-terminal_de_aeropuerto-3840x2160.jpg": "/react-school/static/media/164245-vuelo-aeronave-aeropuerto-despegue-terminal_de_aeropuerto-3840x2160.d614433e5d94b5b2536a.jpg",
+    "static/media/bootstrap-icons.woff?": "/react-school/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/react-school/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/desktop-wallpaper-plain-purple-background.jpg": "/react-school/static/media/desktop-wallpaper-plain-purple-background.5f7fd2270c502fa9706b.jpg",
+    "index.html": "/react-school/index.html",
+    "main.a46df9d5.css.map": "/react-school/static/css/main.a46df9d5.css.map",
+    "main.3c5174c0.js.map": "/react-school/static/js/main.3c5174c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a46df9d5.css",
+    "static/js/main.3c5174c0.js"
+  ]
+}
