@@ -2,9 +2,9 @@ El proyecto necesita del backend para funcionar correctamente,la informacion que
 
 
 Integrantes:  Grupo:301
-Erlan Delfino Alba
-Yasel Barrios Carrillo
-Aldair Guerra  Cedeño
-José Emanuel Vega Trigo
-Lietty Melquis Bueno
-Brian Batista Gonzáles
+Erlan Delfino Alba,
+Yasel Barrios Carrillo,
+Aldair Guerra  Cedeño,
+José Emanuel Vega Trigo,
+Lietty Melquis Bueno,
+Brian Batista Gonzáles,
